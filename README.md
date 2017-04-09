@@ -1,5 +1,5 @@
 # Menu
-Udacity Android Basics Scholarship EU
+Udacity EU Scholarship Android Development for Beginners
 
 #### Lesson 3A Final Task 2
 Get three TextViews and log their content to console via Log.
